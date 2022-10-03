@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amybowen
 - 👀 I’m a PhD student at the Francis Crick Institute
+- ⚛️ I am interested in Biophysics 🧬
 
 
 <!---
